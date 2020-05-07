@@ -1,5 +1,3 @@
 token:
   expiration: 86400000 #1 day
   secret: hrewarhewatjawete5345jdashrak3
-
-login.url.path: "/users/login"
