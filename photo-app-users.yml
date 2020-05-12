@@ -3,7 +3,7 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/photo_app?serverTimezone=UTC
     username: robik
-    password: kibor
+    password: {cipher}4f47daad13c4e426e593e12b4844dda50140a4d58aa01be5ea3af04c6ba2a62a
   rabbitmq:
     host: localhost
     port: 5672
