@@ -1,3 +1,3 @@
 token:
   expiration: 86400000 #1 day
-  secret: hrewarhewatjawete5345jdashrak3
+  secret: "{cipher}4a64d3f983b7b9d3a8f4c8abd1e9fb7f028882fd569aef6236fac45014653f11e251311ebf5a585c7f2b24b24353c046"
